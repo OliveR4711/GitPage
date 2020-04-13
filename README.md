@@ -10,7 +10,10 @@ Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel,
 die Informationslage zu erweitern und zu verbessern, 
 daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren.
 
-Gerne sorge ich für die automatische Erfassung von Informationen und die zentrale Verarbeitung aller Informationen auf IoT-Plattformen. Ebenso kann ich für die Visualisierung neuer oder schwer zu interpretierender Daten mit Hilfe der IoT-Plattformen  sorgen. 
+Gerne sorge ich für die automatische Erfassung von Informationen und 
+die zentrale Verarbeitung aller Informationen auf IoT-Plattformen. 
+Ebenso sorge ich für die Visualisierung neuer oder schwer zu interpretierender Daten 
+mit Hilfe der IoT-Plattformen. 
 
 - Bulleted
 - List
