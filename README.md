@@ -22,7 +22,7 @@ mit Hilfe der IoT-Plattformen.
 Für den Industriestandort Deutschland spielt das T in Internet of Things (IoT) eine zentrale Rolle. Vernetzen wir unsere Anlagen und Produkte, wird aus einem «thing» ein IoT-Device. Als starker Industriestandort haben wir für das IoT und auch für industrielle KI eine sehr gute Basis. Datenanalyse ermöglicht akkurate Prognosen für treffende Entscheidungen über risikominimierende und wachstumsorientierte Ressourcenallokation.   
 
 
-Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Datenbanken, Internet, Mobile Eingabegeräte und zunehmend über das Internet der Dinge. Alles, vom Einkaufsverhalten bis zu den biometrischen Daten sind Berechnungsgrundlage fpr die Algorythmen des Maschinellen Lernenens. Neuerungen wie autonomes Fahren oder automatische Informationsgewinnung sind Teil des technischen Forschritts, wie es vor Generationen die Luftfahrt oder Haushaltsgeräte waren. Wir werden uns dieser technischen Möglichkeiten bedienen, um Ressourcen effizient zu verwenden (Glocalization), gesund zu bleiben und unseren Horizont zu erweitern. 
+Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Datenbanken, Internet, Mobile Eingabegeräte und zunehmend über das Internet der Dinge. Alles, vom Einkaufsverhalten bis zu den biometrischen Daten sind Berechnungsgrundlage für die Algorithmen des Maschinellen Lernens. Neuerungen wie autonomes Fahren oder automatische Informationsgewinnung sind Teil des technischen Fortschritts, wie es vor Generationen die Luftfahrt oder Haushaltsgeräte waren. Wir werden uns dieser technischen Möglichkeiten bedienen, um Ressourcen effizient zu verwenden (Glocalization), gesund zu bleiben und unseren Horizont zu erweitern.
 
 ### Markdown
 
