@@ -1,8 +1,8 @@
-## Willkommen bei Oliver Reichs Internetangebot
+### Willkommen bei Oliver Reichs Internetangebot
 
 Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen Pflichtpraktikums der Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus! 
 
-### Markdown
+# Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
 
