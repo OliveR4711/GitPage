@@ -27,4 +27,4 @@ Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Date
 
 ### Support und Kontakt
 
-Zögern Sie nicht, unverbindlich Kontakt mit mir aufzunehmen oder ein kurzfristiges Projekt vorzuschlagen. Ich unter der email oliver@uni-bonn.de schnell erreichbar. Gerne komme ich zum Gespräch oder schicke Ihnen flexibel weitere Informationen zu. 
+Zögern Sie nicht, unverbindlich Kontakt mit mir aufzunehmen oder ein kurzfristiges Projekt vorzuschlagen. Ich bin über  oliver@uni-bonn.de schnell erreichbar. Gerne komme ich zum Gespräch oder schicke Ihnen flexibel weitere Informationen zu. 
