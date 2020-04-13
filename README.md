@@ -15,9 +15,11 @@ die zentrale Verarbeitung aller Informationen auf IoT-Plattformen.
 Ebenso sorge ich für die Visualisierung neuer oder schwer zu interpretierender Daten 
 mit Hilfe der IoT-Plattformen. 
 
-[url=https://postimages.org/][img]https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png[/img][/url]
+[url=https://postimages.org/][img][/img][/url]
+[Link](url) and ![Image](src)
 
-[Link](https://postimages.org/) and ![https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png[/img(src)
+
+[Link](https://postimages.org/) and ![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
