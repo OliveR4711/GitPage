@@ -1,6 +1,6 @@
 ## Willkommen bei Oliver Reichs Internetangebot
 
-Für Ihre IT biete ich meine Mitarbeit an - im Rahmen des Pflichtpraktikums Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus. Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
+Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des Pflichtpraktikums Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus. Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
 
 
 Automatische Erfassung von Informationen. 
