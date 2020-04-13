@@ -2,7 +2,7 @@
 
 Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen Pflichtpraktikums der Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus! 
 
-#### Mission
+### Mission
 
 ```markdown
 Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, 
@@ -25,11 +25,6 @@ Für den Industriestandort Deutschland spielt das T in Internet of Things (IoT) 
 Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Datenbanken, Internet, Mobile Eingabegeräte und zunehmend über das Internet der Dinge. Alles, vom Einkaufsverhalten bis zu den biometrischen Daten sind Berechnungsgrundlage für die Algorithmen des Maschinellen Lernens. Neuerungen wie autonomes Fahren oder automatische Informationsgewinnung sind Teil des technischen Fortschritts, wie es vor Generationen die Luftfahrt oder Haushaltsgeräte waren. Wir werden uns dieser technischen Möglichkeiten bedienen, um Ressourcen effizient zu verwenden (Glocalization), gesund zu bleiben und unseren Horizont zu erweitern.
 
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-````
-### Support und Kontact
+### Support und Kontakt
 
 Zögern Sie nicht, unverbindlich Kontakt mit mir aufzunehmen oder mir ein kurzfristiges Projekt vorzuschlagen. Ich unter der email oliver@uni-bonn.de schnell erreichbar. Gerne komme ich zum Gespräch oder schicke ich Ihnen weitere Informationen zu. 
