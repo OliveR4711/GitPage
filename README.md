@@ -2,6 +2,29 @@
 
 Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen Pflichtpraktikums der Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus! 
 
+```markdown
+Syntax highlighted code block
+Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+
 Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
 
 
