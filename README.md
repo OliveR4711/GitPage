@@ -13,14 +13,10 @@ daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren.
 Gerne sorge ich für die automatische Erfassung von Informationen und 
 die zentrale Verarbeitung aller Informationen auf IoT-Plattformen. 
 Ebenso sorge ich für die Visualisierung neuer oder schwer zu interpretierender Daten 
-mit Hilfe der IoT-Plattformen. 
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
+mit Hilfe der IoT-Plattformen.
 ```
 ![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
