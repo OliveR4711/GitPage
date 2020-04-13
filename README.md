@@ -15,8 +15,6 @@ die zentrale Verarbeitung aller Informationen auf IoT-Plattformen.
 Ebenso sorge ich für die Visualisierung neuer oder schwer zu interpretierender Daten 
 mit Hilfe der IoT-Plattformen. 
 
-[url=https://postimages.org/][img][/img][/url]
-[Link](url) and ![Image](src)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
