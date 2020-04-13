@@ -5,7 +5,6 @@ Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen
 # Mission
 
 ```markdown
-
 Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, 
 die Informationslage zu erweitern und zu verbessern, 
 daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren.
@@ -18,55 +17,12 @@ mit Hilfe der IoT-Plattformen.
 ![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
 
 
-### Jekyll Themes
+### Aktuelles
+
+Für den Industriestandort Deutschland spielt das T in Internet of Things (IoT) eine zentrale Rolle. Vernetzen wir unsere Anlagen und Produkte, wird aus einem «thing» ein IoT-Device. Als starker Industriestandort haben wir für das IoT und auch für industrielle KI eine sehr gute Basis. Datenanalyse ermöglicht akkurate Prognosen für treffende Entscheidungen über risikominimierende und wachstumsorientierte Ressourcenallokation.   
 
 
-
-Automatische Erfassung von Informationen. 
-Datenarten,  Strukturen  und  Schnittstellen(-standards)  
-Zentrale Verarbeitung aller Informationen auf IoT-Plattformen ist Voraussetzung für möglichst exakte Berechnungen. 
-Die  Visualisierung  von  vorher  nicht  erfassten oder  schwer  zu  überblickenden  und  interpretierenden Daten  kann mit  Hilfe  der  Dienste  innerhalb  von  IoT-Plattformen  geschehen. 
-
-Unternehmen mit IoT-Projekten treffen auch deutlich häufiger automatische Entscheidungen – eines der Ziele der Umsetzung von IoT.
-Sektoren mit niedriger Ansteckungsgefahr
-
-Was wir momentan in Deutschland brauchen, sind physische Produkte und Anlagen, das T in IoT eine zentrale Rolle. 
-Ergänzen wir Produkte mit Vernetzung und Software, damit aus einem «thing» ein IoT-Device wird. 
-Bei KI wäre es wenig erfolgversprechend, mit Internetfirmen zu konkurrieren. Aber als starker Industriestandort haben wir bei industrieller KI eine sehr gute Basis. 
-
-https://www.weforum.org/agenda/2020/03/ventilator-mit-design-free-health-engineering-covid19-pandemic?fbclid=IwAR10yNVW95Rd-cfyHkIwqm_xXxU_CtWFlKqbr6glAW-xssKvsbcrQwFaZSI
-
-https://www.stiftungrechnen.de/Kai-Schmidt?fbclid=IwAR0Hzja2-FJILVn3BQBLYQm8wqcqjxspkUSgDvy0tDJEVhIc63aPUSIz9X4
-
-
-
-Companies constantly seek out new sources of competitive advantage based on developments in data and technology in order to make accurate predictions and intelligent decisions about where to invest their resources. Data analytics, traditionally known as market research and internal analysis, is being used to assess risks and identify growth opportunities and is becoming a valuable tool to many organizations. 
-
-
-The data economy began with electronic information systems called ‘relational databases’, first invented in 1969. 
-
-Data needs to be accurate, up-to-date and relevant. 
-
-kinds of sources, including websites, enterprise applications, social media, mobile devices, and increasingly the Internet of Things (IoT).
-
-everything from your shopping habits to your biometrics is subsistence for machine learning algorithms 
-
-Technological advances like the Internet of Things, smart home and self-driving cars could be the next step in time-saving and convenience in the same way 
-that electrical appliances like the refrigerator and air conditioner were decades earlier.
-
-participatory surveillance,” where we exchange comfort and convenience for an external presence that’s always monitoring us in the background
-
-
-Energiesektor
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/OliveR4711/GitPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Datenbanken, Internet, Mobile Eingabegeräte und zunehmend über das Internet der Dinge. Alles, vom Einkaufsverhalten bis zu den biometrischen Daten sind Berechnungsgrundlage fpr die Algorythmen des Maschinellen Lernenens. Neuerungen wie autonomes Fahren oder automatische Informationsgewinnung sind Teil des technischen Forschritts, wie es vor Generationen die Luftfahrt oder Haushaltsgeräte waren. Wir werden uns dieser technischen Möglichkeiten bedienen, um Ressourcen effizient zu verwenden (Glocalization), gesund zu bleiben und unseren Horizont zu erweitern. 
 
 ### Markdown
 
