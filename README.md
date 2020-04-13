@@ -19,7 +19,7 @@ mit Hilfe der IoT-Plattformen.
 
 ![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
 ```
-
+![Image](https://i.postimg.cc/YGHzDjck/Unterschrift-OR.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
