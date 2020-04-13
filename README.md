@@ -3,16 +3,14 @@
 Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen Pflichtpraktikums der Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus! 
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
 ```markdown
-Syntax highlighted code block
-Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
-# Header 1
-## Header 2
-### Header 3
+
+Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, 
+die Informationslage zu erweitern und zu verbessern, 
+daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren.
+
+Gerne sorge ich für die automatische Erfassung von Informationen und die zentrale Verarbeitung aller Informationen auf IoT-Plattformen. Ebenso kann ich für die Visualisierung neuer oder schwer zu interpretierender Daten mit Hilfe der IoT-Plattformen  sorgen. 
 
 - Bulleted
 - List
@@ -29,8 +27,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-
-Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, die Informationslage zu erweitern und zu verbessern, daraus Entscheidungen zu verbessern sowie Entscheidungen zu automatisieren. 
 
 
 Automatische Erfassung von Informationen. 
