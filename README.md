@@ -24,34 +24,12 @@ Für den Industriestandort Deutschland spielt das T in Internet of Things (IoT) 
 
 Akkurate, aktuelle und relevante Daten werden aus allen Quellen bezogen wie Datenbanken, Internet, Mobile Eingabegeräte und zunehmend über das Internet der Dinge. Alles, vom Einkaufsverhalten bis zu den biometrischen Daten sind Berechnungsgrundlage für die Algorithmen des Maschinellen Lernens. Neuerungen wie autonomes Fahren oder automatische Informationsgewinnung sind Teil des technischen Fortschritts, wie es vor Generationen die Luftfahrt oder Haushaltsgeräte waren. Wir werden uns dieser technischen Möglichkeiten bedienen, um Ressourcen effizient zu verwenden (Glocalization), gesund zu bleiben und unseren Horizont zu erweitern.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+````
+### Support und Kontact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OliveR4711/GitPage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Zögern Sie nicht, unverbindlich Kontakt mit mir aufzunehmen oder mir ein kurzfristiges Projekt vorzuschlagen. Ich unter der email oliver@uni-bonn.de schnell erreichbar. Gerne komme ich zum Gespräch oder schicke ich Ihnen weitere Informationen zu. 
