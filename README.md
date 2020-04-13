@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen zu Oliver Reichs Internetseite
 
 You can use the [editor on GitHub](https://github.com/OliveR4711/GitPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
