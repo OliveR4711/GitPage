@@ -2,7 +2,7 @@
 
 Für Ihre IT Projekte biete ich meine Mitarbeit an - im Rahmen des halbjährigen Pflichtpraktikums der Fachinformatiker für Anwendungsentwicklung, aber gerne auch darüber hinaus! 
 
-# Mission
+#### Mission
 
 ```markdown
 Ich befasse mich besonders mit dem Internet of Things (IoT) mit dem Ziel, 
